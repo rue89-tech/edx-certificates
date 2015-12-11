@@ -19,3 +19,6 @@ course-v1:edX+DemoX_v3+Demo_Course_v3:
   interstitial:
     Pass: 'This person passed.'
     Distinction: 'This person is a complete overachiever!'
+
+course-v1:Opencraft+Test101+T1:
+  TEMPLATEFILE: 'certificate-template-edX-DemoX.pdf'
