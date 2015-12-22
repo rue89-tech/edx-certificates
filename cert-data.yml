@@ -22,3 +22,6 @@ course-v1:edX+DemoX_v3+Demo_Course_v3:
 
 course-v1:Opencraft+Test101+T1:
   TEMPLATEFILE: 'certificate-template-edX-DemoX.pdf'
+
+course-v1:Rue89+Rue89+2015_4:
+  TEMPLATEFILE: 'certificate-template-edX-DemoX.pdf'
